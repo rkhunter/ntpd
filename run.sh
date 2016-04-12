@@ -1,3 +1,3 @@
 #!/bin/sh
-/etc/periodic/5min/ntpd
+/etc/periodic/3min/ntpd
 exec crond -f
